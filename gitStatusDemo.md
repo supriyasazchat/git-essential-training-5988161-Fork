@@ -1,1 +1,3 @@
-Adding a new line
+Adding a new line.
+
+Another change after making a change from GitHub.
